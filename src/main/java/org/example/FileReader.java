@@ -4,6 +4,9 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.example.enums.StudyProfile;
+import org.example.objects.Student;
+import org.example.objects.University;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -11,8 +14,12 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class FileReader {
+    private FileReader() {
+    }
+
     static ArrayList<Student> studentsArr;
     static ArrayList<University> universityArr;
+
     public static void fileRead(String file) {
         FileInputStream fis = null;
 
@@ -30,17 +37,15 @@ public class FileReader {
 
         XSSFSheet sheetStud = wb.getSheetAt(0);
         XSSFSheet sheetUniver = wb.getSheetAt(1);
-        FileReader.studentsArr=getStudArr(sheetStud);
-        FileReader.universityArr=getUnivArr(sheetUniver);
+        FileReader.studentsArr = getStudArr(sheetStud);
+        FileReader.universityArr = getUnivArr(sheetUniver);
 
     }
 
     public static ArrayList<Student> getStudArr(XSSFSheet sheet) {
-
-        ArrayList<Student> studentsArr = new ArrayList<>();
+        studentsArr = new ArrayList<>();
         Iterator<Row> rowIterator = sheet.iterator();
         Row row = rowIterator.next();
-        Iterator<Cell> cellIterator = row.cellIterator();
 
         while (rowIterator.hasNext()) {
             row = rowIterator.next();
@@ -65,11 +70,11 @@ public class FileReader {
         }
         return studentsArr;
     }
+
     public static ArrayList<University> getUnivArr(XSSFSheet sheet) {
         ArrayList<University> universityArr = new ArrayList<>();
         Iterator<Row> rowIterator = sheet.iterator();
         Row row = rowIterator.next();
-        Iterator<Cell> cellIterator = row.cellIterator();
 
         while (rowIterator.hasNext()) {
             row = rowIterator.next();
@@ -87,7 +92,7 @@ public class FileReader {
                 int yearOfFoundation = (int) cell.getNumericCellValue();
                 cell = cells.next();
                 StudyProfile mainProfile = StudyProfile.valueOf(cell.getStringCellValue());
-                University university = new University(uni_id,fullName,shortName,yearOfFoundation, mainProfile);
+                University university = new University(uni_id, fullName, shortName, yearOfFoundation, mainProfile);
 
                 universityArr.add(university);
             }

@@ -1,10 +1,10 @@
-package org.example;
+package org.example.enums;
 
 public enum StudyProfile {
 
     PROGRAMMER("Программирование"),
     DENTIST ("Стоматология"),
-    PHYSICS("Физикя"),
+    PHYSICS("Физика"),
     ACCOUNTAINT("Бухгалтерия"),
 
     LINGUISTICS("Лингвистика"),
