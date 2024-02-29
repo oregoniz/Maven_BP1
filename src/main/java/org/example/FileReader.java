@@ -11,6 +11,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class FileReader {
+    private FileReader() {
+    }
+
     static ArrayList<Student> studentsArr;
     static ArrayList<University> universityArr;
     public static void fileRead(String file) {
@@ -40,7 +43,6 @@ public class FileReader {
         ArrayList<Student> studentsArr = new ArrayList<>();
         Iterator<Row> rowIterator = sheet.iterator();
         Row row = rowIterator.next();
-        Iterator<Cell> cellIterator = row.cellIterator();
 
         while (rowIterator.hasNext()) {
             row = rowIterator.next();
@@ -69,7 +71,6 @@ public class FileReader {
         ArrayList<University> universityArr = new ArrayList<>();
         Iterator<Row> rowIterator = sheet.iterator();
         Row row = rowIterator.next();
-        Iterator<Cell> cellIterator = row.cellIterator();
 
         while (rowIterator.hasNext()) {
             row = rowIterator.next();
