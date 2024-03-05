@@ -1,4 +1,4 @@
-package org.example.enums;
+package proj.skillfactory.enums;
 
 public enum EnumCompareUniver {
     UnivComparatorById("Сравнение университетов по Id"),

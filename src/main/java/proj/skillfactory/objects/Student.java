@@ -1,6 +1,8 @@
-package org.example.objects;
+package proj.skillfactory.objects;
 
-public class Student {
+import java.io.Serializable;
+
+public class Student implements Serializable {
     String fullName;
 
     public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {

@@ -1,12 +1,12 @@
-package org.example;
+package proj.skillfactory;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.example.enums.StudyProfile;
-import org.example.objects.Student;
-import org.example.objects.University;
+import proj.skillfactory.enums.StudyProfile;
+import proj.skillfactory.objects.Student;
+import proj.skillfactory.objects.University;
 
 import java.io.FileInputStream;
 import java.io.IOException;

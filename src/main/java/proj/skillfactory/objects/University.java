@@ -1,6 +1,6 @@
-package org.example.objects;
+package proj.skillfactory.objects;
 
-import org.example.enums.StudyProfile;
+import proj.skillfactory.enums.StudyProfile;
 
 public class University {
     String id;
