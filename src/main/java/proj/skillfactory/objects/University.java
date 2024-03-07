@@ -1,10 +1,11 @@
 package proj.skillfactory.objects;
 
+import com.google.gson.annotations.SerializedName;
 import proj.skillfactory.enums.StudyProfile;
 
 public class University {
     String id;
-    String fullName;
+    @SerializedName("Полное название") String fullName;
 
     public University(String id, String fullName, String shortName, int yearOfFoundation, StudyProfile mainProfile) {
         this.id = id;
@@ -65,7 +66,7 @@ public class University {
         this.mainProfile = mainProfile;
     }
 
-    String shortName;
-    int yearOfFoundation;
-    StudyProfile mainProfile;
+    @SerializedName("Краткое название") String shortName;
+    @SerializedName("Год основания") int yearOfFoundation;
+    @SerializedName("Профиль обучения") StudyProfile mainProfile;
 }

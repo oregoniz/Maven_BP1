@@ -1,9 +1,11 @@
 package proj.skillfactory.objects;
 
+import com.google.gson.annotations.SerializedName;
+
 import java.io.Serializable;
 
 public class Student implements Serializable {
-    String fullName;
+    @SerializedName("Полное имя") String fullName;
 
     public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {
         this.fullName = fullName;
@@ -54,8 +56,8 @@ public class Student implements Serializable {
         this.fullName = fullName;
     }
 
-    String universityId;
-    int currentCourseNumber;
-    float avgExamScore;
+    @SerializedName("ID университета") String universityId;
+    @SerializedName("Курс сейчас") int currentCourseNumber;
+    @SerializedName("Средний балл") float avgExamScore;
 }
 
