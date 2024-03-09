@@ -23,9 +23,13 @@ public class XlsWriter {
     public static void xlsGenerator(ArrayList<Statistics> arrayStat, String filePath) throws FileNotFoundException {
 
         XSSFWorkbook wb = new XSSFWorkbook();
-      /*  XSSFFont font1 = createFont();
-        CellStyle cs = wb.createCellStyle();
-        cs.setFont(font1);*/
+        XSSFFont font = wb.createFont();
+        font.setFontName("Verdana");
+        font.setBold(true);
+        font.setFontHeightInPoints((short) 12);
+        CellStyle style = wb.createCellStyle();
+        style.setFont(font);
+
         int rows = 0;
 
         try {
@@ -39,7 +43,7 @@ public class XlsWriter {
             row.createCell(4).setCellValue("Названия университетов");
 
             for (int i = 0; i < arrayStat.size(); i++) {
-                row = sheet.createRow(i+1);
+                row = sheet.createRow(i + 1);
                 row.createCell(0).setCellValue(arrayStat.get(i).getMainProfile().toString());
                 row.createCell(1).setCellValue(arrayStat.get(i).getAvgExamScore());
                 row.createCell(2).setCellValue(arrayStat.get(i).getStudNumStudyProfile());
