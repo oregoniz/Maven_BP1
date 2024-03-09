@@ -25,7 +25,7 @@ public class StatUtil {
             statistics.setStudNumStudyProfile(studUnivByProf.size());
             double avSSum = studUnivByProf.stream().mapToDouble(Student::getAvgExamScore).sum();
             Optional<Double> avS = Optional.of(avSSum / studUnivByProf.size());
-            System.out.println(avS.get());
+
             if(!avS.get().isNaN()) {
                 BigDecimal bd = BigDecimal.valueOf(avS.get()).setScale(2, RoundingMode.HALF_UP);
                 statistics.setAvgExamScore(bd.toString());
