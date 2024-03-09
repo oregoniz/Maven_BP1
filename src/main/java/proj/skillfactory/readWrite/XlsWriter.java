@@ -23,7 +23,7 @@ public class XlsWriter {
         try {
             XSSFSheet sheet = wb.createSheet("Statistics");
             XSSFRow row = sheet.createRow(0);
-            //    row.setRowStyle(cs);
+            row.setRowStyle(style);
             row.createCell(0).setCellValue("Профиль обучения");
             row.createCell(1).setCellValue("Средний балл");
             row.createCell(2).setCellValue("Количество студентов по профилю");
