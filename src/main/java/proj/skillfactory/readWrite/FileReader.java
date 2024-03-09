@@ -1,4 +1,4 @@
-package proj.skillfactory;
+package proj.skillfactory.readWrite;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -17,8 +17,8 @@ public class FileReader {
     private FileReader() {
     }
 
-    static ArrayList<Student> studentsArr;
-    static ArrayList<University> universityArr;
+    public static ArrayList<Student> studentsArr;
+    public static ArrayList<University> universityArr;
 
     public static void fileRead(String file) {
         FileInputStream fis = null;

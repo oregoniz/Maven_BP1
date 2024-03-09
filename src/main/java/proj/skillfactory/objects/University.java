@@ -6,6 +6,9 @@ import proj.skillfactory.enums.StudyProfile;
 public class University {
     String id;
     @SerializedName("Полное название") String fullName;
+    @SerializedName("Краткое название") String shortName;
+    @SerializedName("Год основания") int yearOfFoundation;
+    @SerializedName("Профиль обучения") StudyProfile mainProfile;
 
     public University(String id, String fullName, String shortName, int yearOfFoundation, StudyProfile mainProfile) {
         this.id = id;
@@ -66,7 +69,5 @@ public class University {
         this.mainProfile = mainProfile;
     }
 
-    @SerializedName("Краткое название") String shortName;
-    @SerializedName("Год основания") int yearOfFoundation;
-    @SerializedName("Профиль обучения") StudyProfile mainProfile;
+
 }

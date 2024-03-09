@@ -5,7 +5,7 @@ public enum StudyProfile {
     PROGRAMMER("Программирование"),
     DENTIST ("Стоматология"),
     PHYSICS("Физика"),
-    ACCOUNTAINT("Бухгалтерия"),
+    FINANCE("Финансы"),
 
     LINGUISTICS("Лингвистика"),
     MEDICINE("Медицина"),
