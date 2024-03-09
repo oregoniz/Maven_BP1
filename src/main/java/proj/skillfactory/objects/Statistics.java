@@ -2,8 +2,6 @@ package proj.skillfactory.objects;
 
 import proj.skillfactory.enums.StudyProfile;
 
-import java.math.BigDecimal;
-
 public class Statistics {
     StudyProfile mainProfile;
     String avgExamScore;
@@ -15,21 +13,11 @@ public class Statistics {
         this.mainProfile = mainProfile;
     }
 
-    public Statistics(StudyProfile mainProfile, String avgExamScore, int studNumStudyProfile, int univNumStudyProfile, String universityNames) {
-        this.mainProfile = mainProfile;
-        this.avgExamScore = avgExamScore;
-        StudNumStudyProfile = studNumStudyProfile;
-        UnivNumStudyProfile = univNumStudyProfile;
-        UniversityNames = universityNames;
-    }
 
     public StudyProfile getMainProfile() {
         return mainProfile;
     }
 
-    public void setMainProfile(StudyProfile mainProfile) {
-        this.mainProfile = mainProfile;
-    }
 
     public String getAvgExamScore() {
         return avgExamScore;

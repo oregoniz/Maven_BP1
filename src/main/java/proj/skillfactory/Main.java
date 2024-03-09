@@ -11,9 +11,7 @@ import proj.skillfactory.readWrite.FileReader;
 import proj.skillfactory.util.JsonUtil;
 import proj.skillfactory.util.StatUtil;
 
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.stream.Stream;
 
 import static proj.skillfactory.comparators.ChooseComparator.StudComparator;
@@ -23,7 +21,7 @@ import static proj.skillfactory.readWrite.FileReader.universityArr;
 import static proj.skillfactory.readWrite.XlsWriter.xlsGenerator;
 
 public class Main {
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args){
 
 
         FileReader.fileRead("src/main/resources/universityInfo.xlsx");

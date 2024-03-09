@@ -3,24 +3,14 @@ package proj.skillfactory.readWrite;
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.xssf.usermodel.*;
 import proj.skillfactory.objects.Statistics;
-import proj.skillfactory.objects.Student;
-import proj.skillfactory.util.JsonUtil;
-
-import java.awt.*;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.stream.Stream;
-
-import static java.awt.Font.createFont;
-import static proj.skillfactory.readWrite.FileReader.studentsArr;
 
 public class XlsWriter {
     public XlsWriter() {
     }
 
-    public static void xlsGenerator(ArrayList<Statistics> arrayStat, String filePath) throws FileNotFoundException {
+    public static void xlsGenerator(ArrayList<Statistics> arrayStat, String filePath) {
 
         XSSFWorkbook wb = new XSSFWorkbook();
         XSSFFont font = wb.createFont();
@@ -29,8 +19,6 @@ public class XlsWriter {
         font.setFontHeightInPoints((short) 12);
         CellStyle style = wb.createCellStyle();
         style.setFont(font);
-
-        int rows = 0;
 
         try {
             XSSFSheet sheet = wb.createSheet("Statistics");

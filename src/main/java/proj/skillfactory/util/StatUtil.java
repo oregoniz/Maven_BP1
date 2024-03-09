@@ -23,11 +23,11 @@ public class StatUtil {
 
             List<Student> studUnivByProf = studentArrayList.stream().filter(student -> getUniverIds(univArrByProf).contains(student.getUniversityId())).toList();
             statistics.setStudNumStudyProfile(studUnivByProf.size());
-            Double avSSum = studUnivByProf.stream().mapToDouble(Student::getAvgExamScore).sum();
+            double avSSum = studUnivByProf.stream().mapToDouble(Student::getAvgExamScore).sum();
             Optional<Double> avS = Optional.of(avSSum / studUnivByProf.size());
             System.out.println(avS.get());
             if(!avS.get().isNaN()) {
-                BigDecimal bd = new BigDecimal(avS.get()).setScale(2, RoundingMode.HALF_UP);
+                BigDecimal bd = BigDecimal.valueOf(avS.get()).setScale(2, RoundingMode.HALF_UP);
                 statistics.setAvgExamScore(bd.toString());
             } else statistics.setAvgExamScore("0");
 

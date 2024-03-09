@@ -21,10 +21,10 @@ public class FileReader {
     public static ArrayList<University> universityArr;
 
     public static void fileRead(String file) {
-        FileInputStream fis = null;
+        FileInputStream fis;
 
 
-        XSSFWorkbook wb = null;
+        XSSFWorkbook wb;
         {
             try {
                 fis = new FileInputStream(file);
