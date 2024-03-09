@@ -6,6 +6,9 @@ import java.io.Serializable;
 
 public class Student implements Serializable {
     @SerializedName("Полное имя") String fullName;
+    @SerializedName("ID университета") String universityId;
+    @SerializedName("Курс сейчас") int currentCourseNumber;
+    @SerializedName("Средний балл") float avgExamScore;
 
     public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {
         this.fullName = fullName;
@@ -56,8 +59,6 @@ public class Student implements Serializable {
         this.fullName = fullName;
     }
 
-    @SerializedName("ID университета") String universityId;
-    @SerializedName("Курс сейчас") int currentCourseNumber;
-    @SerializedName("Средний балл") float avgExamScore;
+
 }
 
