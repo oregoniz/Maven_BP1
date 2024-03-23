@@ -1,15 +1,21 @@
 package proj.skillfactory.util;
 
+import org.apache.logging.log4j.LogManager;
+import proj.skillfactory.Main;
 import proj.skillfactory.enums.StudyProfile;
 import proj.skillfactory.objects.Statistics;
 import proj.skillfactory.objects.Student;
 import proj.skillfactory.objects.University;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.*;
 
 public class StatUtil {
+    static final Logger log = LogManager.getLogger(Main.class.getName());
+
     public static ArrayList<Statistics> GetStatistics(ArrayList<Student> studentArrayList, ArrayList<University> universityArrayList) {
 
         ArrayList<Statistics> statisticsArrayList = new ArrayList<>();
@@ -26,7 +32,7 @@ public class StatUtil {
             double avSSum = studUnivByProf.stream().mapToDouble(Student::getAvgExamScore).sum();
             Optional<Double> avS = Optional.of(avSSum / studUnivByProf.size());
 
-            if(!avS.get().isNaN()) {
+            if (!avS.get().isNaN()) {
                 BigDecimal bd = BigDecimal.valueOf(avS.get()).setScale(2, RoundingMode.HALF_UP);
                 statistics.setAvgExamScore(bd.toString());
             } else statistics.setAvgExamScore("0");
@@ -34,7 +40,7 @@ public class StatUtil {
             statisticsArrayList.add(statistics);
         });
 
-
+        log.info("Статистика собрана.");
         return statisticsArrayList;
     }
 

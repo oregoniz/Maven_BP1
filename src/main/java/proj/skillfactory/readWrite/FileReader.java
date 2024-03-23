@@ -1,9 +1,12 @@
 package proj.skillfactory.readWrite;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import proj.skillfactory.Main;
 import proj.skillfactory.enums.StudyProfile;
 import proj.skillfactory.objects.Student;
 import proj.skillfactory.objects.University;
@@ -14,6 +17,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class FileReader {
+    static final Logger log = LogManager.getLogger(Main.class.getName());
+
     private FileReader() {
     }
 
@@ -22,24 +27,31 @@ public class FileReader {
 
     public static void fileRead(String file) {
         FileInputStream fis;
-
-
         XSSFWorkbook wb;
-        {
-            try {
-                fis = new FileInputStream(file);
-                wb = new XSSFWorkbook(fis);
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
+
+        try {
+            fis = new FileInputStream(file);
+            wb = new XSSFWorkbook(fis);
+            log.info("Файл открыт");
+
+        } catch (IOException e) {
+            log.error("Файл не открыт");
+            throw new RuntimeException(e);
         }
 
+        XSSFSheet sheetStud = null;
+        XSSFSheet sheetUniver = null;
+        try {
+            sheetStud = wb.getSheetAt(0);
+            sheetUniver = wb.getSheetAt(1);
+            log.info("Листы 1, 2 файла получены.");
 
-        XSSFSheet sheetStud = wb.getSheetAt(0);
-        XSSFSheet sheetUniver = wb.getSheetAt(1);
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+
         FileReader.studentsArr = getStudArr(sheetStud);
         FileReader.universityArr = getUnivArr(sheetUniver);
-
     }
 
     public static ArrayList<Student> getStudArr(XSSFSheet sheet) {
@@ -68,6 +80,7 @@ public class FileReader {
                 studentsArr.add(student);
             }
         }
+        log.info("таблица студентов прочитана");
         return studentsArr;
     }
 
@@ -97,6 +110,7 @@ public class FileReader {
                 universityArr.add(university);
             }
         }
+        log.info("таблица университетов прочитана");
         return universityArr;
     }
 }

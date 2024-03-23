@@ -7,10 +7,8 @@ public enum EnumCompareUniver {
     UnivComparatorByShortName ("Сравнение университетов по аббривиатуре"),
     UnivComparatorByYearOfFoundation("Сравнение университетов по году создания");
     String enumCompareUniv;
-    EnumCompareUniver(String enumCompareUniv) {
-        this.enumCompareUniv = enumCompareUniv;
+
+    EnumCompareUniver(String s) {
+
     }
-
-
-
 }
