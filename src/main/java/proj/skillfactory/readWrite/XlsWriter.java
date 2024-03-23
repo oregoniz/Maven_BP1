@@ -1,12 +1,16 @@
 package proj.skillfactory.readWrite;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.xssf.usermodel.*;
+import proj.skillfactory.Main;
 import proj.skillfactory.objects.Statistics;
 import java.io.FileOutputStream;
 import java.util.ArrayList;
 
 public class XlsWriter {
+    static final Logger log = LogManager.getLogger(Main.class.getName());
     public XlsWriter() {
     }
 
@@ -44,8 +48,9 @@ public class XlsWriter {
             FileOutputStream fileOut = new FileOutputStream(filePath);
             wb.write(fileOut);
             fileOut.close();
+            log.info("Файл статистики записан");
         } catch (Exception ex) {
-            System.out.println("XLSX Generated Error...");
+            log.error("Ошибка записи файла статистики");
         }
     }
 }

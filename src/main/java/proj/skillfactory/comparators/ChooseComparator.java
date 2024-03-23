@@ -4,6 +4,7 @@ import proj.skillfactory.enums.EnumCompareUniver;
 import proj.skillfactory.enums.EnumCompareStudents;
 
 public class ChooseComparator {
+
     public ChooseComparator() {
     }
 

@@ -1,0 +1,257 @@
+[INFO ] 2024-03-20 21:57:23.572 [main] Main - Это информационное сообщение!
+[DEBUG] 2024-03-20 21:57:23.648 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-20 21:57:23.650 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-20 21:57:23.651 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-20 21:57:23.651 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-20 21:57:23.836 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-20 21:57:23.837 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-20 21:57:23.929 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-20 21:57:23.929 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-20 21:57:23.954 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-20 21:57:23.956 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-20 21:57:23.957 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-20 21:57:23.958 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-20 21:57:23.958 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-20 21:57:23.958 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-20 21:57:23.959 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 09:59:22.642 [main] Main - started
+[INFO ] 2024-03-21 09:59:22.644 [main] Main - Это информационное сообщение!
+[DEBUG] 2024-03-21 09:59:22.718 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 09:59:22.719 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 09:59:22.720 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 09:59:22.721 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 09:59:22.901 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 09:59:22.901 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 09:59:22.994 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 09:59:22.994 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 09:59:23.021 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 09:59:23.024 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 09:59:23.025 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 09:59:23.026 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 09:59:23.027 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 09:59:23.027 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 09:59:23.028 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:06:09.610 [main] Main - started
+[INFO ] 2024-03-21 10:06:09.613 [main] Main - Это информационное сообщение!
+[DEBUG] 2024-03-21 10:06:09.686 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:06:09.688 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:06:09.689 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:06:09.690 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:06:09.867 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:06:09.867 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:06:09.903 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:06:09.907 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:06:09.908 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:06:09.953 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:06:09.953 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:06:09.983 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:06:09.984 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:06:09.985 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:06:09.987 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:06:09.987 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:06:09.987 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:06:09.988 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:07:43.813 [main] Main - started
+[DEBUG] 2024-03-21 10:07:43.893 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:07:43.894 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:07:43.896 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:07:43.897 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:07:44.075 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:07:44.075 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:07:44.112 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:07:44.117 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:07:44.119 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:07:44.161 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:07:44.161 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:07:44.189 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:07:44.191 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:07:44.191 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:07:44.192 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:07:44.193 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:07:44.193 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:07:44.194 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:09:27.168 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 10:09:27.246 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:09:27.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:09:27.248 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:09:27.249 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:09:27.421 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:09:27.421 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:09:27.454 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:09:27.459 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:09:27.460 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:09:27.505 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:09:27.505 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:09:27.530 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:09:27.532 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:09:27.532 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:09:27.533 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:09:27.534 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:09:27.534 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:09:27.534 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:13:04.344 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 10:13:04.419 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:13:04.421 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:13:04.423 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:13:04.423 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:13:04.603 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:13:04.603 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:13:04.638 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:13:04.642 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:13:04.643 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:13:04.688 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:13:04.689 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:13:04.712 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:13:04.715 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:13:04.715 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:13:04.717 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:13:04.717 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:13:04.717 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:13:04.718 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:15:03.321 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 10:15:03.393 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:15:03.395 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:15:03.396 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:15:03.397 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:15:03.568 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:15:03.568 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:15:03.603 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:15:03.607 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:15:03.608 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:15:03.656 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:15:03.656 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:15:03.680 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:15:03.682 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:15:03.682 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:15:03.683 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:15:03.684 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:15:03.684 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:15:03.685 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:17:25.777 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 10:17:25.851 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:17:25.852 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:17:25.853 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:17:25.854 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:17:26.032 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:17:26.032 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:17:26.065 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:17:26.066 [main] Main - Листы 1, 2 файла получены.
+[INFO ] 2024-03-21 10:17:26.070 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:17:26.071 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:17:26.114 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:17:26.114 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:17:26.139 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:17:26.141 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:17:26.141 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:17:26.143 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:17:26.144 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:17:26.144 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:17:26.144 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:24:26.126 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 10:24:26.205 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 10:24:26.208 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 10:24:26.209 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 10:24:26.209 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 10:24:26.379 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 10:24:26.379 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 10:24:26.410 [main] Main - Файл открыт
+[INFO ] 2024-03-21 10:24:26.410 [main] Main - Листы 1, 2 файла получены.
+[INFO ] 2024-03-21 10:24:26.415 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 10:24:26.417 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 10:24:26.460 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 10:24:26.460 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 10:24:26.486 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 10:24:26.488 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 10:24:26.488 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 10:24:26.489 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 10:24:26.489 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 10:24:26.489 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 10:24:26.490 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 10:24:26.491 [main] Main - Файл статистики записан
+[INFO ] 2024-03-21 19:47:13.915 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 19:47:14.001 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 19:47:14.003 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 19:47:14.004 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 19:47:14.004 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 19:47:14.220 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 19:47:14.220 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 19:47:14.264 [main] Main - Файл открыт
+[INFO ] 2024-03-21 19:47:14.265 [main] Main - Листы 1, 2 файла получены.
+[INFO ] 2024-03-21 19:47:14.270 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 19:47:14.272 [main] Main - таблица университетов прочитана
+[DEBUG] 2024-03-21 19:47:14.331 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 19:47:14.331 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 19:47:14.369 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 19:47:14.371 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 19:47:14.371 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 19:47:14.373 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 19:47:14.373 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 19:47:14.373 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 19:47:14.374 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 19:47:14.374 [main] Main - Файл статистики записан
+[INFO ] 2024-03-21 20:12:21.304 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 20:12:21.383 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 20:12:21.385 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 20:12:21.386 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 20:12:21.387 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 20:12:21.586 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 20:12:21.586 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 20:12:21.627 [main] Main - Файл открыт
+[INFO ] 2024-03-21 20:12:21.627 [main] Main - Листы 1, 2 файла получены.
+[INFO ] 2024-03-21 20:12:21.633 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 20:12:21.634 [main] Main - таблица университетов прочитана
+[INFO ] 2024-03-21 20:12:21.641 [main] Main - Статистика собрана.
+[DEBUG] 2024-03-21 20:12:21.682 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 20:12:21.682 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 20:12:21.708 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 20:12:21.710 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 20:12:21.710 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 20:12:21.712 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 20:12:21.712 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 20:12:21.712 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 20:12:21.713 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 20:12:21.714 [main] Main - Файл статистики записан
+[INFO ] 2024-03-21 20:53:00.386 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 20:53:00.459 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 20:53:00.461 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 20:53:00.461 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 20:53:00.463 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 20:53:00.658 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 20:53:00.658 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 20:53:00.695 [main] Main - Файл открыт
+[INFO ] 2024-03-21 20:53:00.696 [main] Main - Листы 1, 2 файла получены.
+[INFO ] 2024-03-21 20:53:00.701 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 20:53:00.704 [main] Main - таблица университетов прочитана
+[INFO ] 2024-03-21 20:53:00.711 [main] Main - Статистика собрана.
+[DEBUG] 2024-03-21 20:53:00.754 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 20:53:00.754 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 20:53:00.783 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 20:53:00.784 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 20:53:00.785 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 20:53:00.786 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 20:53:00.787 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 20:53:00.787 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 20:53:00.787 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 20:53:00.788 [main] Main - Файл статистики записан
+[INFO ] 2024-03-21 20:54:21.042 [main] Main - Программа запущена
+[DEBUG] 2024-03-21 20:54:21.120 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-03-21 20:54:21.123 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-03-21 20:54:21.123 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-03-21 20:54:21.124 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-03-21 20:54:21.321 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-03-21 20:54:21.321 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-03-21 20:54:21.357 [main] Main - Файл открыт
+[INFO ] 2024-03-21 20:54:21.357 [main] Main - Листы 1, 2 файла получены.
+[INFO ] 2024-03-21 20:54:21.361 [main] Main - таблица студентов прочитана
+[INFO ] 2024-03-21 20:54:21.363 [main] Main - таблица университетов прочитана
+[INFO ] 2024-03-21 20:54:21.369 [main] Main - Статистика собрана.
+[DEBUG] 2024-03-21 20:54:21.410 [main] ZipPackage - Save core properties part
+[DEBUG] 2024-03-21 20:54:21.410 [main] ZipPackage - Save content types part
+[DEBUG] 2024-03-21 20:54:21.435 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-03-21 20:54:21.436 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-03-21 20:54:21.437 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-03-21 20:54:21.438 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-03-21 20:54:21.438 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-03-21 20:54:21.438 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-03-21 20:54:21.439 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[INFO ] 2024-03-21 20:54:21.440 [main] Main - Файл статистики записан

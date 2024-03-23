@@ -14,6 +14,6 @@ public enum StudyProfile {
 
     String profileName;
     StudyProfile(String profileName) {
-        this.profileName = profileName;}
+        }
 
 }

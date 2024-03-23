@@ -6,9 +6,8 @@ public enum EnumCompareStudents {
     StudentsComparatorByUnivId ("Сравнение студентов по Id"),
     StudentsComparatorByAvgExamScore ("Сравнение студентов по рейтингу");
 
-   String EnumCompareStud;
 
-    EnumCompareStudents(String enumCompareStud) {
-        EnumCompareStud = enumCompareStud;
+    EnumCompareStudents(String s) {
+
     }
 }
