@@ -1,8 +1,5 @@
 package proj.skillfactory.objects;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import proj.skillfactory.Main;
 import proj.skillfactory.enums.StudyProfile;
 
 public class Statistics {

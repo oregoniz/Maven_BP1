@@ -1,23 +1,22 @@
 package proj.skillfactory.util;
 
-import org.apache.logging.log4j.LogManager;
 import proj.skillfactory.Main;
 import proj.skillfactory.enums.StudyProfile;
 import proj.skillfactory.objects.Statistics;
 import proj.skillfactory.objects.Student;
 import proj.skillfactory.objects.University;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.*;
 
 public class StatUtil {
-    static final Logger log = LogManager.getLogger(Main.class.getName());
+    private static final Logger logger = Logger.getLogger(Main.class.getName());
 
     public static ArrayList<Statistics> GetStatistics(ArrayList<Student> studentArrayList, ArrayList<University> universityArrayList) {
-
+        logger.log(Level.INFO, "Сбор статистики запущен.");
         ArrayList<Statistics> statisticsArrayList = new ArrayList<>();
         Set<StudyProfile> profiles = getAllProfiles(universityArrayList);
 
@@ -40,8 +39,8 @@ public class StatUtil {
             statisticsArrayList.add(statistics);
         });
 
-        log.info("Статистика собрана.");
-        return statisticsArrayList;
+        logger.log(Level.INFO,"Статистика собрана. Обработано объектов: "+statisticsArrayList.size());
+                return statisticsArrayList;
     }
 
     private static List<String> getUniverIds(List<University> univArrByProf) {

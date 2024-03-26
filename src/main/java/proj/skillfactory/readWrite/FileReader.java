@@ -1,7 +1,5 @@
 package proj.skillfactory.readWrite;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -15,9 +13,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class FileReader {
-    static final Logger log = LogManager.getLogger(Main.class.getName());
+    private static final java.util.logging.Logger logger = Logger.getLogger(Main.class.getName());
 
     private FileReader() {
     }
@@ -32,10 +32,10 @@ public class FileReader {
         try {
             fis = new FileInputStream(file);
             wb = new XSSFWorkbook(fis);
-            log.info("Файл открыт");
+            logger.log(Level.INFO,"Файл открыт");
 
         } catch (IOException e) {
-            log.error("Файл не открыт");
+            logger.log(Level.SEVERE,"Файл не открыт");
             throw new RuntimeException(e);
         }
 
@@ -44,7 +44,7 @@ public class FileReader {
         try {
             sheetStud = wb.getSheetAt(0);
             sheetUniver = wb.getSheetAt(1);
-            log.info("Листы 1, 2 файла получены.");
+            logger.log(Level.INFO,"Листы 1, 2 файла получены.");
 
         } catch (Exception e) {
             throw new RuntimeException(e);
@@ -80,7 +80,7 @@ public class FileReader {
                 studentsArr.add(student);
             }
         }
-        log.info("таблица студентов прочитана");
+        logger.log(Level.INFO,"таблица студентов прочитана, количество: "+ studentsArr.size());
         return studentsArr;
     }
 
@@ -110,7 +110,7 @@ public class FileReader {
                 universityArr.add(university);
             }
         }
-        log.info("таблица университетов прочитана");
+        logger.log(Level.INFO,"таблица университетов прочитана, количество: "+universityArr.size());
         return universityArr;
     }
 }
