@@ -14,18 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-            <version>3.14.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-collections4</artifactId>
-            <version>4.4</version>
-        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
          <dependency>
             <groupId>org.apache.logging.log4j</groupId>
@@ -38,11 +27,7 @@
             <version>2.23.1</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
-        <dependency>
-            <groupId>com.google.code.gson</groupId>
-            <artifactId>gson</artifactId>
-            <version>2.10.1</version>
-        </dependency>
+
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
@@ -59,8 +44,9 @@
             <artifactId>log4j-1.2-api</artifactId>
             <version>2.9.1</version>
         </dependency>
-        <!-- Thanks for using https://jar-download.com -->
 
+
+        <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
 
     </dependencies>
 

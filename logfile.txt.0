@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-03-25T09:45:09.313475100Z</date>
+  <millis>1711359909313</millis>
+  <nanos>475100</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.672184900Z</date>
+  <millis>1711359909672</millis>
+  <nanos>184900</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.672184900Z</date>
+  <millis>1711359909672</millis>
+  <nanos>184900</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.679852200Z</date>
+  <millis>1711359909679</millis>
+  <nanos>852200</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.681859100Z</date>
+  <millis>1711359909681</millis>
+  <nanos>859100</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.688141500Z</date>
+  <millis>1711359909688</millis>
+  <nanos>141500</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.692227700Z</date>
+  <millis>1711359909692</millis>
+  <nanos>227700</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.692227700Z</date>
+  <millis>1711359909692</millis>
+  <nanos>227700</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.780470500Z</date>
+  <millis>1711359909780</millis>
+  <nanos>470500</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-03-25T09:45:09.780470500Z</date>
+  <millis>1711359909780</millis>
+  <nanos>470500</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>

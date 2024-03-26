@@ -1,21 +1,24 @@
 package proj.skillfactory.readWrite;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.xssf.usermodel.*;
 import proj.skillfactory.Main;
 import proj.skillfactory.objects.Statistics;
+
 import java.io.FileOutputStream;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class XlsWriter {
-    static final Logger log = LogManager.getLogger(Main.class.getName());
+    private static final java.util.logging.Logger logger = Logger.getLogger(Main.class.getName());
+
     public XlsWriter() {
     }
 
     public static void xlsGenerator(ArrayList<Statistics> arrayStat, String filePath) {
 
+        logger.log(Level.INFO, "Запуск записи статистики.");
         XSSFWorkbook wb = new XSSFWorkbook();
         XSSFFont font = wb.createFont();
         font.setFontName("Verdana");
@@ -48,9 +51,9 @@ public class XlsWriter {
             FileOutputStream fileOut = new FileOutputStream(filePath);
             wb.write(fileOut);
             fileOut.close();
-            log.info("Файл статистики записан");
+            logger.log(Level.INFO,"Файл статистики записан");
         } catch (Exception ex) {
-            log.error("Ошибка записи файла статистики");
+            logger.log(Level.SEVERE,"Ошибка записи файла статистики");
         }
     }
 }

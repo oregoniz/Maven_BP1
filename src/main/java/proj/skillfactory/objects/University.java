@@ -1,9 +1,6 @@
 package proj.skillfactory.objects;
 
 import com.google.gson.annotations.SerializedName;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import proj.skillfactory.Main;
 import proj.skillfactory.enums.StudyProfile;
 
 public class University {
