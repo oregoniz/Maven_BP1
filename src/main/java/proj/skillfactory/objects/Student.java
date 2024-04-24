@@ -2,13 +2,27 @@ package proj.skillfactory.objects;
 
 import com.google.gson.annotations.SerializedName;
 
+import javax.xml.bind.annotation.*;
 import java.io.Serializable;
 
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Student implements Serializable {
-    @SerializedName("Полное имя") String fullName;
-    @SerializedName("ID университета") String universityId;
-    @SerializedName("Курс сейчас") int currentCourseNumber;
-    @SerializedName("Средний балл") float avgExamScore;
+
+    @XmlElement(name = "studentName", required=true)
+    @SerializedName("Имя студента")
+    String fullName;
+
+    @XmlElement(name = "universityId", required=true)
+    @SerializedName("ID университета")
+    String universityId;
+
+    @XmlTransient
+    @SerializedName("Курс")
+    int currentCourseNumber;
+
+    @XmlElement(name = "avgScore", required=true)
+    @SerializedName("Средний балл")
+    float avgExamScore;
 
     public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {
         this.fullName = fullName;

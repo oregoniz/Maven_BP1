@@ -3,12 +3,26 @@ package proj.skillfactory.objects;
 import com.google.gson.annotations.SerializedName;
 import proj.skillfactory.enums.StudyProfile;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlTransient;
+
+@XmlAccessorType(XmlAccessType.FIELD)
 public class University {
     String id;
-    @SerializedName("Полное название") String fullName;
-    @SerializedName("Краткое название") String shortName;
-    @SerializedName("Год основания") int yearOfFoundation;
-    @SerializedName("Профиль обучения") StudyProfile mainProfile;
+    @SerializedName("Полное название")
+    @XmlElement(name = "universityId")
+    String fullName;
+    @XmlTransient
+    @SerializedName("Краткое название")
+    String shortName;
+    @SerializedName("Год основания")
+    @XmlTransient
+    int yearOfFoundation;
+    @XmlElement(name = "universityProfile")
+    @SerializedName("Профиль обучения")
+    StudyProfile mainProfile;
 
     public University(String id, String fullName, String shortName, int yearOfFoundation, StudyProfile mainProfile) {
         this.id = id;

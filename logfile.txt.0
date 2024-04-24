@@ -122,3 +122,5799 @@
   <message>Программа успешно завершена.</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-21T10:21:28.445446400Z</date>
+  <millis>1713694888445</millis>
+  <nanos>446400</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.121675400Z</date>
+  <millis>1713694889121</millis>
+  <nanos>675400</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.122872100Z</date>
+  <millis>1713694889122</millis>
+  <nanos>872100</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.127089Z</date>
+  <millis>1713694889127</millis>
+  <nanos>89000</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.129337200Z</date>
+  <millis>1713694889129</millis>
+  <nanos>337200</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.135534500Z</date>
+  <millis>1713694889135</millis>
+  <nanos>534500</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.139539400Z</date>
+  <millis>1713694889139</millis>
+  <nanos>539400</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.139539400Z</date>
+  <millis>1713694889139</millis>
+  <nanos>539400</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.220207900Z</date>
+  <millis>1713694889220</millis>
+  <nanos>207900</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-21T10:21:29.220207900Z</date>
+  <millis>1713694889220</millis>
+  <nanos>207900</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-21T10:30:26.210143800Z</date>
+  <millis>1713695426210</millis>
+  <nanos>143800</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.807149100Z</date>
+  <millis>1713695426807</millis>
+  <nanos>149100</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.807149100Z</date>
+  <millis>1713695426807</millis>
+  <nanos>149100</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.812156700Z</date>
+  <millis>1713695426812</millis>
+  <nanos>156700</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.814480500Z</date>
+  <millis>1713695426814</millis>
+  <nanos>480500</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.822786300Z</date>
+  <millis>1713695426822</millis>
+  <nanos>786300</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.825886700Z</date>
+  <millis>1713695426825</millis>
+  <nanos>886700</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.826888800Z</date>
+  <millis>1713695426826</millis>
+  <nanos>888800</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.905420100Z</date>
+  <millis>1713695426905</millis>
+  <nanos>420100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-21T10:30:26.905420100Z</date>
+  <millis>1713695426905</millis>
+  <nanos>420100</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-21T10:33:57.565687600Z</date>
+  <millis>1713695637565</millis>
+  <nanos>687600</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.143501Z</date>
+  <millis>1713695638143</millis>
+  <nanos>501000</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.143501Z</date>
+  <millis>1713695638143</millis>
+  <nanos>501000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.148869600Z</date>
+  <millis>1713695638148</millis>
+  <nanos>869600</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.151297500Z</date>
+  <millis>1713695638151</millis>
+  <nanos>297500</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.159706Z</date>
+  <millis>1713695638159</millis>
+  <nanos>706000</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.161886900Z</date>
+  <millis>1713695638161</millis>
+  <nanos>886900</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.163224800Z</date>
+  <millis>1713695638163</millis>
+  <nanos>224800</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.199515600Z</date>
+  <millis>1713695638199</millis>
+  <nanos>515600</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>SEVERE</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Ошибка записи файла статистики</message>
+</record>
+<record>
+  <date>2024-04-21T10:33:58.199515600Z</date>
+  <millis>1713695638199</millis>
+  <nanos>515600</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-21T10:34:21.309304Z</date>
+  <millis>1713695661309</millis>
+  <nanos>304000</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.902785Z</date>
+  <millis>1713695661902</millis>
+  <nanos>785000</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.902785Z</date>
+  <millis>1713695661902</millis>
+  <nanos>785000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.907156300Z</date>
+  <millis>1713695661907</millis>
+  <nanos>156300</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.909306400Z</date>
+  <millis>1713695661909</millis>
+  <nanos>306400</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.917687500Z</date>
+  <millis>1713695661917</millis>
+  <nanos>687500</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.919951900Z</date>
+  <millis>1713695661919</millis>
+  <nanos>951900</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.921257800Z</date>
+  <millis>1713695661921</millis>
+  <nanos>257800</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.956539100Z</date>
+  <millis>1713695661956</millis>
+  <nanos>539100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>SEVERE</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Ошибка записи файла статистики</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:21.957558200Z</date>
+  <millis>1713695661957</millis>
+  <nanos>558200</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-21T10:34:39.077653400Z</date>
+  <millis>1713695679077</millis>
+  <nanos>653400</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.641808700Z</date>
+  <millis>1713695679641</millis>
+  <nanos>808700</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.642823600Z</date>
+  <millis>1713695679642</millis>
+  <nanos>823600</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.648132100Z</date>
+  <millis>1713695679648</millis>
+  <nanos>132100</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.650311100Z</date>
+  <millis>1713695679650</millis>
+  <nanos>311100</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.658655400Z</date>
+  <millis>1713695679658</millis>
+  <nanos>655400</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.661173600Z</date>
+  <millis>1713695679661</millis>
+  <nanos>173600</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.662181700Z</date>
+  <millis>1713695679662</millis>
+  <nanos>181700</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.740391100Z</date>
+  <millis>1713695679740</millis>
+  <nanos>391100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-21T10:34:39.740391100Z</date>
+  <millis>1713695679740</millis>
+  <nanos>391100</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:19:21.912309900Z</date>
+  <millis>1713777561912</millis>
+  <nanos>309900</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.480708700Z</date>
+  <millis>1713777562480</millis>
+  <nanos>708700</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.480708700Z</date>
+  <millis>1713777562480</millis>
+  <nanos>708700</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.485433800Z</date>
+  <millis>1713777562485</millis>
+  <nanos>433800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.487466800Z</date>
+  <millis>1713777562487</millis>
+  <nanos>466800</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.496700600Z</date>
+  <millis>1713777562496</millis>
+  <nanos>700600</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.498725700Z</date>
+  <millis>1713777562498</millis>
+  <nanos>725700</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.499745300Z</date>
+  <millis>1713777562499</millis>
+  <nanos>745300</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.572428300Z</date>
+  <millis>1713777562572</millis>
+  <nanos>428300</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:19:22.572428300Z</date>
+  <millis>1713777562572</millis>
+  <nanos>428300</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:20:07.270086900Z</date>
+  <millis>1713777607270</millis>
+  <nanos>86900</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.852572100Z</date>
+  <millis>1713777607852</millis>
+  <nanos>572100</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.853584400Z</date>
+  <millis>1713777607853</millis>
+  <nanos>584400</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.858748100Z</date>
+  <millis>1713777607858</millis>
+  <nanos>748100</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.860772900Z</date>
+  <millis>1713777607860</millis>
+  <nanos>772900</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.874994900Z</date>
+  <millis>1713777607874</millis>
+  <nanos>994900</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.877528900Z</date>
+  <millis>1713777607877</millis>
+  <nanos>528900</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.878036100Z</date>
+  <millis>1713777607878</millis>
+  <nanos>36100</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.949885700Z</date>
+  <millis>1713777607949</millis>
+  <nanos>885700</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:07.950391Z</date>
+  <millis>1713777607950</millis>
+  <nanos>391000</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:20:40.398122700Z</date>
+  <millis>1713777640398</millis>
+  <nanos>122700</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:40.968169400Z</date>
+  <millis>1713777640968</millis>
+  <nanos>169400</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:40.969210900Z</date>
+  <millis>1713777640969</millis>
+  <nanos>210900</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:40.973643600Z</date>
+  <millis>1713777640973</millis>
+  <nanos>643600</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:40.974940600Z</date>
+  <millis>1713777640974</millis>
+  <nanos>940600</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.011306800Z</date>
+  <millis>1713777641011</millis>
+  <nanos>306800</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.012306100Z</date>
+  <millis>1713777641012</millis>
+  <nanos>306100</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.013308600Z</date>
+  <millis>1713777641013</millis>
+  <nanos>308600</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.015546700Z</date>
+  <millis>1713777641015</millis>
+  <nanos>546700</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.016546Z</date>
+  <millis>1713777641016</millis>
+  <nanos>546000</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.093303600Z</date>
+  <millis>1713777641093</millis>
+  <nanos>303600</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:20:41.094305900Z</date>
+  <millis>1713777641094</millis>
+  <nanos>305900</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:21:02.189427900Z</date>
+  <millis>1713777662189</millis>
+  <nanos>427900</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.754748700Z</date>
+  <millis>1713777662754</millis>
+  <nanos>748700</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.754748700Z</date>
+  <millis>1713777662754</millis>
+  <nanos>748700</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.759757100Z</date>
+  <millis>1713777662759</millis>
+  <nanos>757100</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.760756400Z</date>
+  <millis>1713777662760</millis>
+  <nanos>756400</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.794747300Z</date>
+  <millis>1713777662794</millis>
+  <nanos>747300</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.796752Z</date>
+  <millis>1713777662796</millis>
+  <nanos>752000</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.798756800Z</date>
+  <millis>1713777662798</millis>
+  <nanos>756800</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.798756800Z</date>
+  <millis>1713777662798</millis>
+  <nanos>756800</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.799759600Z</date>
+  <millis>1713777662799</millis>
+  <nanos>759600</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.802767100Z</date>
+  <millis>1713777662802</millis>
+  <nanos>767100</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.802767100Z</date>
+  <millis>1713777662802</millis>
+  <nanos>767100</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.876537100Z</date>
+  <millis>1713777662876</millis>
+  <nanos>537100</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:02.876537100Z</date>
+  <millis>1713777662876</millis>
+  <nanos>537100</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:21:33.920708900Z</date>
+  <millis>1713777693920</millis>
+  <nanos>708900</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.485393100Z</date>
+  <millis>1713777694485</millis>
+  <nanos>393100</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.486393900Z</date>
+  <millis>1713777694486</millis>
+  <nanos>393900</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.490645400Z</date>
+  <millis>1713777694490</millis>
+  <nanos>645400</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.492822900Z</date>
+  <millis>1713777694492</millis>
+  <nanos>822900</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.528368500Z</date>
+  <millis>1713777694528</millis>
+  <nanos>368500</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.530787100Z</date>
+  <millis>1713777694530</millis>
+  <nanos>787100</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.532937600Z</date>
+  <millis>1713777694532</millis>
+  <nanos>937600</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.532937600Z</date>
+  <millis>1713777694532</millis>
+  <nanos>937600</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.534008700Z</date>
+  <millis>1713777694534</millis>
+  <nanos>8700</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.536542600Z</date>
+  <millis>1713777694536</millis>
+  <nanos>542600</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.536542600Z</date>
+  <millis>1713777694536</millis>
+  <nanos>542600</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.614175500Z</date>
+  <millis>1713777694614</millis>
+  <nanos>175500</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:21:34.614175500Z</date>
+  <millis>1713777694614</millis>
+  <nanos>175500</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:22:25.553424Z</date>
+  <millis>1713777745553</millis>
+  <nanos>424000</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.122349300Z</date>
+  <millis>1713777746122</millis>
+  <nanos>349300</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.123351500Z</date>
+  <millis>1713777746123</millis>
+  <nanos>351500</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.127698900Z</date>
+  <millis>1713777746127</millis>
+  <nanos>698900</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.129777Z</date>
+  <millis>1713777746129</millis>
+  <nanos>777000</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.166672600Z</date>
+  <millis>1713777746166</millis>
+  <nanos>672600</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.168675100Z</date>
+  <millis>1713777746168</millis>
+  <nanos>675100</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.170681100Z</date>
+  <millis>1713777746170</millis>
+  <nanos>681100</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.171683600Z</date>
+  <millis>1713777746171</millis>
+  <nanos>683600</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.171683600Z</date>
+  <millis>1713777746171</millis>
+  <nanos>683600</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.175055600Z</date>
+  <millis>1713777746175</millis>
+  <nanos>55600</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.175055600Z</date>
+  <millis>1713777746175</millis>
+  <nanos>55600</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.176057700Z</date>
+  <millis>1713777746176</millis>
+  <nanos>57700</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.176057700Z</date>
+  <millis>1713777746176</millis>
+  <nanos>57700</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.176057700Z</date>
+  <millis>1713777746176</millis>
+  <nanos>57700</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.177060300Z</date>
+  <millis>1713777746177</millis>
+  <nanos>60300</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.177060300Z</date>
+  <millis>1713777746177</millis>
+  <nanos>60300</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.177060300Z</date>
+  <millis>1713777746177</millis>
+  <nanos>60300</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.178070800Z</date>
+  <millis>1713777746178</millis>
+  <nanos>70800</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.178070800Z</date>
+  <millis>1713777746178</millis>
+  <nanos>70800</nanos>
+  <sequence>20</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.178070800Z</date>
+  <millis>1713777746178</millis>
+  <nanos>70800</nanos>
+  <sequence>21</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.179103600Z</date>
+  <millis>1713777746179</millis>
+  <nanos>103600</nanos>
+  <sequence>22</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.179103600Z</date>
+  <millis>1713777746179</millis>
+  <nanos>103600</nanos>
+  <sequence>23</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.180128800Z</date>
+  <millis>1713777746180</millis>
+  <nanos>128800</nanos>
+  <sequence>24</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.180128800Z</date>
+  <millis>1713777746180</millis>
+  <nanos>128800</nanos>
+  <sequence>25</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.181262Z</date>
+  <millis>1713777746181</millis>
+  <nanos>262000</nanos>
+  <sequence>26</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.181262Z</date>
+  <millis>1713777746181</millis>
+  <nanos>262000</nanos>
+  <sequence>27</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.181262Z</date>
+  <millis>1713777746181</millis>
+  <nanos>262000</nanos>
+  <sequence>28</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.181262Z</date>
+  <millis>1713777746181</millis>
+  <nanos>262000</nanos>
+  <sequence>29</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.182514Z</date>
+  <millis>1713777746182</millis>
+  <nanos>514000</nanos>
+  <sequence>30</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.182514Z</date>
+  <millis>1713777746182</millis>
+  <nanos>514000</nanos>
+  <sequence>31</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.182514Z</date>
+  <millis>1713777746182</millis>
+  <nanos>514000</nanos>
+  <sequence>32</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.185826400Z</date>
+  <millis>1713777746185</millis>
+  <nanos>826400</nanos>
+  <sequence>33</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.185826400Z</date>
+  <millis>1713777746185</millis>
+  <nanos>826400</nanos>
+  <sequence>34</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.259352300Z</date>
+  <millis>1713777746259</millis>
+  <nanos>352300</nanos>
+  <sequence>35</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:22:26.259352300Z</date>
+  <millis>1713777746259</millis>
+  <nanos>352300</nanos>
+  <sequence>36</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:23:57.517673200Z</date>
+  <millis>1713777837517</millis>
+  <nanos>673200</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.096414500Z</date>
+  <millis>1713777838096</millis>
+  <nanos>414500</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.097646400Z</date>
+  <millis>1713777838097</millis>
+  <nanos>646400</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.101946600Z</date>
+  <millis>1713777838101</millis>
+  <nanos>946600</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.103083200Z</date>
+  <millis>1713777838103</millis>
+  <nanos>83200</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.131642900Z</date>
+  <millis>1713777838131</millis>
+  <nanos>642900</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.133713500Z</date>
+  <millis>1713777838133</millis>
+  <nanos>713500</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.135802400Z</date>
+  <millis>1713777838135</millis>
+  <nanos>802400</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.136805100Z</date>
+  <millis>1713777838136</millis>
+  <nanos>805100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.136805100Z</date>
+  <millis>1713777838136</millis>
+  <nanos>805100</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.139814600Z</date>
+  <millis>1713777838139</millis>
+  <nanos>814600</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.142966800Z</date>
+  <millis>1713777838142</millis>
+  <nanos>966800</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.144159400Z</date>
+  <millis>1713777838144</millis>
+  <nanos>159400</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.144159400Z</date>
+  <millis>1713777838144</millis>
+  <nanos>159400</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.145158400Z</date>
+  <millis>1713777838145</millis>
+  <nanos>158400</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.145158400Z</date>
+  <millis>1713777838145</millis>
+  <nanos>158400</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.145158400Z</date>
+  <millis>1713777838145</millis>
+  <nanos>158400</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.146160900Z</date>
+  <millis>1713777838146</millis>
+  <nanos>160900</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.146160900Z</date>
+  <millis>1713777838146</millis>
+  <nanos>160900</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.146160900Z</date>
+  <millis>1713777838146</millis>
+  <nanos>160900</nanos>
+  <sequence>20</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.147163500Z</date>
+  <millis>1713777838147</millis>
+  <nanos>163500</nanos>
+  <sequence>21</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.147163500Z</date>
+  <millis>1713777838147</millis>
+  <nanos>163500</nanos>
+  <sequence>22</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.147163500Z</date>
+  <millis>1713777838147</millis>
+  <nanos>163500</nanos>
+  <sequence>23</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.147163500Z</date>
+  <millis>1713777838147</millis>
+  <nanos>163500</nanos>
+  <sequence>24</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.148587600Z</date>
+  <millis>1713777838148</millis>
+  <nanos>587600</nanos>
+  <sequence>25</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.148587600Z</date>
+  <millis>1713777838148</millis>
+  <nanos>587600</nanos>
+  <sequence>26</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.148587600Z</date>
+  <millis>1713777838148</millis>
+  <nanos>587600</nanos>
+  <sequence>27</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.149773300Z</date>
+  <millis>1713777838149</millis>
+  <nanos>773300</nanos>
+  <sequence>28</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.149773300Z</date>
+  <millis>1713777838149</millis>
+  <nanos>773300</nanos>
+  <sequence>29</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.149773300Z</date>
+  <millis>1713777838149</millis>
+  <nanos>773300</nanos>
+  <sequence>30</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.149773300Z</date>
+  <millis>1713777838149</millis>
+  <nanos>773300</nanos>
+  <sequence>31</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.150943700Z</date>
+  <millis>1713777838150</millis>
+  <nanos>943700</nanos>
+  <sequence>32</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.153342600Z</date>
+  <millis>1713777838153</millis>
+  <nanos>342600</nanos>
+  <sequence>33</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.154619200Z</date>
+  <millis>1713777838154</millis>
+  <nanos>619200</nanos>
+  <sequence>34</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.228069300Z</date>
+  <millis>1713777838228</millis>
+  <nanos>69300</nanos>
+  <sequence>35</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:23:58.229093800Z</date>
+  <millis>1713777838229</millis>
+  <nanos>93800</nanos>
+  <sequence>36</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:27:19.531088500Z</date>
+  <millis>1713778039531</millis>
+  <nanos>88500</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.101779400Z</date>
+  <millis>1713778040101</millis>
+  <nanos>779400</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.101779400Z</date>
+  <millis>1713778040101</millis>
+  <nanos>779400</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.108673200Z</date>
+  <millis>1713778040108</millis>
+  <nanos>673200</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.109897900Z</date>
+  <millis>1713778040109</millis>
+  <nanos>897900</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.140353Z</date>
+  <millis>1713778040140</millis>
+  <nanos>353000</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.142814500Z</date>
+  <millis>1713778040142</millis>
+  <nanos>814500</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.144321400Z</date>
+  <millis>1713778040144</millis>
+  <nanos>321400</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.144321400Z</date>
+  <millis>1713778040144</millis>
+  <nanos>321400</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.145771200Z</date>
+  <millis>1713778040145</millis>
+  <nanos>771200</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.149220700Z</date>
+  <millis>1713778040149</millis>
+  <nanos>220700</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.152248Z</date>
+  <millis>1713778040152</millis>
+  <nanos>248000</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.152248Z</date>
+  <millis>1713778040152</millis>
+  <nanos>248000</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.153598700Z</date>
+  <millis>1713778040153</millis>
+  <nanos>598700</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.153598700Z</date>
+  <millis>1713778040153</millis>
+  <nanos>598700</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.153598700Z</date>
+  <millis>1713778040153</millis>
+  <nanos>598700</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.154600500Z</date>
+  <millis>1713778040154</millis>
+  <nanos>600500</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.154600500Z</date>
+  <millis>1713778040154</millis>
+  <nanos>600500</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.155668100Z</date>
+  <millis>1713778040155</millis>
+  <nanos>668100</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.155668100Z</date>
+  <millis>1713778040155</millis>
+  <nanos>668100</nanos>
+  <sequence>20</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.156740800Z</date>
+  <millis>1713778040156</millis>
+  <nanos>740800</nanos>
+  <sequence>21</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.156740800Z</date>
+  <millis>1713778040156</millis>
+  <nanos>740800</nanos>
+  <sequence>22</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.156740800Z</date>
+  <millis>1713778040156</millis>
+  <nanos>740800</nanos>
+  <sequence>23</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.157874200Z</date>
+  <millis>1713778040157</millis>
+  <nanos>874200</nanos>
+  <sequence>24</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.157874200Z</date>
+  <millis>1713778040157</millis>
+  <nanos>874200</nanos>
+  <sequence>25</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.158928800Z</date>
+  <millis>1713778040158</millis>
+  <nanos>928800</nanos>
+  <sequence>26</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.158928800Z</date>
+  <millis>1713778040158</millis>
+  <nanos>928800</nanos>
+  <sequence>27</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.158928800Z</date>
+  <millis>1713778040158</millis>
+  <nanos>928800</nanos>
+  <sequence>28</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.158928800Z</date>
+  <millis>1713778040158</millis>
+  <nanos>928800</nanos>
+  <sequence>29</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.160393200Z</date>
+  <millis>1713778040160</millis>
+  <nanos>393200</nanos>
+  <sequence>30</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.160393200Z</date>
+  <millis>1713778040160</millis>
+  <nanos>393200</nanos>
+  <sequence>31</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStud</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.161402Z</date>
+  <millis>1713778040161</millis>
+  <nanos>402000</nanos>
+  <sequence>32</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.163519300Z</date>
+  <millis>1713778040163</millis>
+  <nanos>519300</nanos>
+  <sequence>33</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.164527100Z</date>
+  <millis>1713778040164</millis>
+  <nanos>527100</nanos>
+  <sequence>34</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.247938700Z</date>
+  <millis>1713778040247</millis>
+  <nanos>938700</nanos>
+  <sequence>35</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:27:20.247938700Z</date>
+  <millis>1713778040247</millis>
+  <nanos>938700</nanos>
+  <sequence>36</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:47:26.122972600Z</date>
+  <millis>1713779246122</millis>
+  <nanos>972600</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.720263500Z</date>
+  <millis>1713779246720</millis>
+  <nanos>263500</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.721270500Z</date>
+  <millis>1713779246721</millis>
+  <nanos>270500</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.726457900Z</date>
+  <millis>1713779246726</millis>
+  <nanos>457900</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.728559200Z</date>
+  <millis>1713779246728</millis>
+  <nanos>559200</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.766737400Z</date>
+  <millis>1713779246766</millis>
+  <nanos>737400</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.767741900Z</date>
+  <millis>1713779246767</millis>
+  <nanos>741900</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.770850100Z</date>
+  <millis>1713779246770</millis>
+  <nanos>850100</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.770850100Z</date>
+  <millis>1713779246770</millis>
+  <nanos>850100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.771908200Z</date>
+  <millis>1713779246771</millis>
+  <nanos>908200</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.776362100Z</date>
+  <millis>1713779246776</millis>
+  <nanos>362100</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.776362100Z</date>
+  <millis>1713779246776</millis>
+  <nanos>362100</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.856318100Z</date>
+  <millis>1713779246856</millis>
+  <nanos>318100</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:47:26.856318100Z</date>
+  <millis>1713779246856</millis>
+  <nanos>318100</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:48:16.015713100Z</date>
+  <millis>1713779296015</millis>
+  <nanos>713100</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.609825200Z</date>
+  <millis>1713779296609</millis>
+  <nanos>825200</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.610838600Z</date>
+  <millis>1713779296610</millis>
+  <nanos>838600</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.615239400Z</date>
+  <millis>1713779296615</millis>
+  <nanos>239400</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.617263900Z</date>
+  <millis>1713779296617</millis>
+  <nanos>263900</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.656297300Z</date>
+  <millis>1713779296656</millis>
+  <nanos>297300</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.657431700Z</date>
+  <millis>1713779296657</millis>
+  <nanos>431700</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.660555100Z</date>
+  <millis>1713779296660</millis>
+  <nanos>555100</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.660555100Z</date>
+  <millis>1713779296660</millis>
+  <nanos>555100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.661565Z</date>
+  <millis>1713779296661</millis>
+  <nanos>565000</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.665321500Z</date>
+  <millis>1713779296665</millis>
+  <nanos>321500</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.666584800Z</date>
+  <millis>1713779296666</millis>
+  <nanos>584800</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.751211800Z</date>
+  <millis>1713779296751</millis>
+  <nanos>211800</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:48:16.751211800Z</date>
+  <millis>1713779296751</millis>
+  <nanos>211800</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:49:45.698625500Z</date>
+  <millis>1713779385698</millis>
+  <nanos>625500</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.288797Z</date>
+  <millis>1713779386288</millis>
+  <nanos>797000</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.288797Z</date>
+  <millis>1713779386288</millis>
+  <nanos>797000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.294213800Z</date>
+  <millis>1713779386294</millis>
+  <nanos>213800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.296341600Z</date>
+  <millis>1713779386296</millis>
+  <nanos>341600</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.336901200Z</date>
+  <millis>1713779386336</millis>
+  <nanos>901200</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.338114Z</date>
+  <millis>1713779386338</millis>
+  <nanos>114000</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.341144700Z</date>
+  <millis>1713779386341</millis>
+  <nanos>144700</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.341144700Z</date>
+  <millis>1713779386341</millis>
+  <nanos>144700</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.342241600Z</date>
+  <millis>1713779386342</millis>
+  <nanos>241600</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.345633900Z</date>
+  <millis>1713779386345</millis>
+  <nanos>633900</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.346637500Z</date>
+  <millis>1713779386346</millis>
+  <nanos>637500</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.425508500Z</date>
+  <millis>1713779386425</millis>
+  <nanos>508500</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:49:46.426526500Z</date>
+  <millis>1713779386426</millis>
+  <nanos>526500</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:50:43.399223800Z</date>
+  <millis>1713779443399</millis>
+  <nanos>223800</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.952749Z</date>
+  <millis>1713779443952</millis>
+  <nanos>749000</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.952749Z</date>
+  <millis>1713779443952</millis>
+  <nanos>749000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.957762800Z</date>
+  <millis>1713779443957</millis>
+  <nanos>762800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.959766700Z</date>
+  <millis>1713779443959</millis>
+  <nanos>766700</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.991851800Z</date>
+  <millis>1713779443991</millis>
+  <nanos>851800</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.992854600Z</date>
+  <millis>1713779443992</millis>
+  <nanos>854600</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.994859700Z</date>
+  <millis>1713779443994</millis>
+  <nanos>859700</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.994859700Z</date>
+  <millis>1713779443994</millis>
+  <nanos>859700</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.995862100Z</date>
+  <millis>1713779443995</millis>
+  <nanos>862100</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.998870100Z</date>
+  <millis>1713779443998</millis>
+  <nanos>870100</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:43.998870100Z</date>
+  <millis>1713779443998</millis>
+  <nanos>870100</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:44.074085800Z</date>
+  <millis>1713779444074</millis>
+  <nanos>85800</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:50:44.074085800Z</date>
+  <millis>1713779444074</millis>
+  <nanos>85800</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:51:22.091795400Z</date>
+  <millis>1713779482091</millis>
+  <nanos>795400</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.670284100Z</date>
+  <millis>1713779482670</millis>
+  <nanos>284100</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.670284100Z</date>
+  <millis>1713779482670</millis>
+  <nanos>284100</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.675317700Z</date>
+  <millis>1713779482675</millis>
+  <nanos>317700</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.676684400Z</date>
+  <millis>1713779482676</millis>
+  <nanos>684400</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.708892100Z</date>
+  <millis>1713779482708</millis>
+  <nanos>892100</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.710493600Z</date>
+  <millis>1713779482710</millis>
+  <nanos>493600</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.712007Z</date>
+  <millis>1713779482712</millis>
+  <nanos>7000</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.713010900Z</date>
+  <millis>1713779482713</millis>
+  <nanos>10900</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.714012700Z</date>
+  <millis>1713779482714</millis>
+  <nanos>12700</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.717019500Z</date>
+  <millis>1713779482717</millis>
+  <nanos>19500</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.718023600Z</date>
+  <millis>1713779482718</millis>
+  <nanos>23600</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.790598900Z</date>
+  <millis>1713779482790</millis>
+  <nanos>598900</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:51:22.790598900Z</date>
+  <millis>1713779482790</millis>
+  <nanos>598900</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-22T09:53:37.777117600Z</date>
+  <millis>1713779617777</millis>
+  <nanos>117600</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.330057500Z</date>
+  <millis>1713779618330</millis>
+  <nanos>57500</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.330057500Z</date>
+  <millis>1713779618330</millis>
+  <nanos>57500</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.336660Z</date>
+  <millis>1713779618336</millis>
+  <nanos>660000</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.337661700Z</date>
+  <millis>1713779618337</millis>
+  <nanos>661700</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.372069300Z</date>
+  <millis>1713779618372</millis>
+  <nanos>69300</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.374527300Z</date>
+  <millis>1713779618374</millis>
+  <nanos>527300</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.376731400Z</date>
+  <millis>1713779618376</millis>
+  <nanos>731400</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.376731400Z</date>
+  <millis>1713779618376</millis>
+  <nanos>731400</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.378058300Z</date>
+  <millis>1713779618378</millis>
+  <nanos>58300</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.381306Z</date>
+  <millis>1713779618381</millis>
+  <nanos>306000</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.382308200Z</date>
+  <millis>1713779618382</millis>
+  <nanos>308200</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.457732900Z</date>
+  <millis>1713779618457</millis>
+  <nanos>732900</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-22T09:53:38.458963800Z</date>
+  <millis>1713779618458</millis>
+  <nanos>963800</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:17:47.001737200Z</date>
+  <millis>1713946667001</millis>
+  <nanos>737200</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.602890800Z</date>
+  <millis>1713946667602</millis>
+  <nanos>890800</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.603948200Z</date>
+  <millis>1713946667603</millis>
+  <nanos>948200</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.610087800Z</date>
+  <millis>1713946667610</millis>
+  <nanos>87800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.612221700Z</date>
+  <millis>1713946667612</millis>
+  <nanos>221700</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.648177100Z</date>
+  <millis>1713946667648</millis>
+  <nanos>177100</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.650468Z</date>
+  <millis>1713946667650</millis>
+  <nanos>468000</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.652837Z</date>
+  <millis>1713946667652</millis>
+  <nanos>837000</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.652837Z</date>
+  <millis>1713946667652</millis>
+  <nanos>837000</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.654100500Z</date>
+  <millis>1713946667654</millis>
+  <nanos>100500</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.657317600Z</date>
+  <millis>1713946667657</millis>
+  <nanos>317600</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.658340900Z</date>
+  <millis>1713946667658</millis>
+  <nanos>340900</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.742706300Z</date>
+  <millis>1713946667742</millis>
+  <nanos>706300</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.745529600Z</date>
+  <millis>1713946667745</millis>
+  <nanos>529600</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML writing</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.829925800Z</date>
+  <millis>1713946667829</millis>
+  <nanos>925800</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>jsonReqs уже существует</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.832821800Z</date>
+  <millis>1713946667832</millis>
+  <nanos>821800</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML ошибка записи</message>
+  <exception>
+    <message>javax.xml.bind.JAXBException
+ - with linked exception:
+[java.io.FileNotFoundException: xmlReqs\infoReq1713946667829.xml (Системе не удается найти указанный путь)]</message>
+    <frame>
+      <class>javax.xml.bind.helpers.AbstractMarshallerImpl</class>
+      <method>marshal</method>
+      <line>123</line>
+    </frame>
+    <frame>
+      <class>proj.skillfactory.readWrite.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>52</line>
+    </frame>
+    <frame>
+      <class>proj.skillfactory.Main</class>
+      <method>main</method>
+      <line>88</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.834012300Z</date>
+  <millis>1713946667834</millis>
+  <nanos>12300</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.834012300Z</date>
+  <millis>1713946667834</millis>
+  <nanos>12300</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>jsonReqs директория создана</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.838501800Z</date>
+  <millis>1713946667838</millis>
+  <nanos>501800</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2024-04-24T08:17:47.838501800Z</date>
+  <millis>1713946667838</millis>
+  <nanos>501800</nanos>
+  <sequence>20</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:21:35.074539500Z</date>
+  <millis>1713946895074</millis>
+  <nanos>539500</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.649014800Z</date>
+  <millis>1713946895649</millis>
+  <nanos>14800</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.650273400Z</date>
+  <millis>1713946895650</millis>
+  <nanos>273400</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.655286800Z</date>
+  <millis>1713946895655</millis>
+  <nanos>286800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.657719500Z</date>
+  <millis>1713946895657</millis>
+  <nanos>719500</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.693663700Z</date>
+  <millis>1713946895693</millis>
+  <nanos>663700</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.694665600Z</date>
+  <millis>1713946895694</millis>
+  <nanos>665600</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.697674300Z</date>
+  <millis>1713946895697</millis>
+  <nanos>674300</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.698676800Z</date>
+  <millis>1713946895698</millis>
+  <nanos>676800</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.698676800Z</date>
+  <millis>1713946895698</millis>
+  <nanos>676800</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.701683900Z</date>
+  <millis>1713946895701</millis>
+  <nanos>683900</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.702687200Z</date>
+  <millis>1713946895702</millis>
+  <nanos>687200</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.785339500Z</date>
+  <millis>1713946895785</millis>
+  <nanos>339500</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.787848800Z</date>
+  <millis>1713946895787</millis>
+  <nanos>848800</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML writing</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.866544Z</date>
+  <millis>1713946895866</millis>
+  <nanos>544000</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Directory created</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.875910200Z</date>
+  <millis>1713946895875</millis>
+  <nanos>910200</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.875910200Z</date>
+  <millis>1713946895875</millis>
+  <nanos>910200</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.881350300Z</date>
+  <millis>1713946895881</millis>
+  <nanos>350300</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2024-04-24T08:21:35.882619600Z</date>
+  <millis>1713946895882</millis>
+  <nanos>619600</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:24:21.965644400Z</date>
+  <millis>1713947061965</millis>
+  <nanos>644400</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.521311100Z</date>
+  <millis>1713947062521</millis>
+  <nanos>311100</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.522312200Z</date>
+  <millis>1713947062522</millis>
+  <nanos>312200</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.526995700Z</date>
+  <millis>1713947062526</millis>
+  <nanos>995700</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.528005500Z</date>
+  <millis>1713947062528</millis>
+  <nanos>5500</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.559140300Z</date>
+  <millis>1713947062559</millis>
+  <nanos>140300</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.561145800Z</date>
+  <millis>1713947062561</millis>
+  <nanos>145800</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.563150900Z</date>
+  <millis>1713947062563</millis>
+  <nanos>150900</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.563150900Z</date>
+  <millis>1713947062563</millis>
+  <nanos>150900</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.564153700Z</date>
+  <millis>1713947062564</millis>
+  <nanos>153700</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.567161700Z</date>
+  <millis>1713947062567</millis>
+  <nanos>161700</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.568164100Z</date>
+  <millis>1713947062568</millis>
+  <nanos>164100</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.639533800Z</date>
+  <millis>1713947062639</millis>
+  <nanos>533800</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.640536500Z</date>
+  <millis>1713947062640</millis>
+  <nanos>536500</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML writing</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.716463100Z</date>
+  <millis>1713947062716</millis>
+  <nanos>463100</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.717828100Z</date>
+  <millis>1713947062717</millis>
+  <nanos>828100</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.720077600Z</date>
+  <millis>1713947062720</millis>
+  <nanos>77600</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2024-04-24T08:24:22.721084600Z</date>
+  <millis>1713947062721</millis>
+  <nanos>84600</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:27:39.650943700Z</date>
+  <millis>1713947259650</millis>
+  <nanos>943700</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.223936600Z</date>
+  <millis>1713947260223</millis>
+  <nanos>936600</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.224937600Z</date>
+  <millis>1713947260224</millis>
+  <nanos>937600</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.229112300Z</date>
+  <millis>1713947260229</millis>
+  <nanos>112300</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.231116500Z</date>
+  <millis>1713947260231</millis>
+  <nanos>116500</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.261416600Z</date>
+  <millis>1713947260261</millis>
+  <nanos>416600</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.263421800Z</date>
+  <millis>1713947260263</millis>
+  <nanos>421800</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.265426900Z</date>
+  <millis>1713947260265</millis>
+  <nanos>426900</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.265426900Z</date>
+  <millis>1713947260265</millis>
+  <nanos>426900</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.266662Z</date>
+  <millis>1713947260266</millis>
+  <nanos>662000</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.269703900Z</date>
+  <millis>1713947260269</millis>
+  <nanos>703900</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.269703900Z</date>
+  <millis>1713947260269</millis>
+  <nanos>703900</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.340941800Z</date>
+  <millis>1713947260340</millis>
+  <nanos>941800</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.341944600Z</date>
+  <millis>1713947260341</millis>
+  <nanos>944600</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML writing</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.418330Z</date>
+  <millis>1713947260418</millis>
+  <nanos>330000</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.418330Z</date>
+  <millis>1713947260418</millis>
+  <nanos>330000</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.421462400Z</date>
+  <millis>1713947260421</millis>
+  <nanos>462400</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2024-04-24T08:27:40.422522100Z</date>
+  <millis>1713947260422</millis>
+  <nanos>522100</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:31:13.333204900Z</date>
+  <millis>1713947473333</millis>
+  <nanos>204900</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.911456500Z</date>
+  <millis>1713947473911</millis>
+  <nanos>456500</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.912459Z</date>
+  <millis>1713947473912</millis>
+  <nanos>459000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.916979500Z</date>
+  <millis>1713947473916</millis>
+  <nanos>979500</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.917981900Z</date>
+  <millis>1713947473917</millis>
+  <nanos>981900</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.950908Z</date>
+  <millis>1713947473950</millis>
+  <nanos>908000</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.951910500Z</date>
+  <millis>1713947473951</millis>
+  <nanos>910500</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.953910900Z</date>
+  <millis>1713947473953</millis>
+  <nanos>910900</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.954911600Z</date>
+  <millis>1713947473954</millis>
+  <nanos>911600</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.954911600Z</date>
+  <millis>1713947473954</millis>
+  <nanos>911600</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Количество элементов совпадает</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.954911600Z</date>
+  <millis>1713947473954</millis>
+  <nanos>911600</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.958329900Z</date>
+  <millis>1713947473958</millis>
+  <nanos>329900</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:13.958329900Z</date>
+  <millis>1713947473958</millis>
+  <nanos>329900</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:14.032833400Z</date>
+  <millis>1713947474032</millis>
+  <nanos>833400</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:14.035406900Z</date>
+  <millis>1713947474035</millis>
+  <nanos>406900</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML writing</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:14.121198800Z</date>
+  <millis>1713947474121</millis>
+  <nanos>198800</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:14.122676200Z</date>
+  <millis>1713947474122</millis>
+  <nanos>676200</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:14.125845800Z</date>
+  <millis>1713947474125</millis>
+  <nanos>845800</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:14.125845800Z</date>
+  <millis>1713947474125</millis>
+  <nanos>845800</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:31:42.737887100Z</date>
+  <millis>1713947502737</millis>
+  <nanos>887100</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.306364400Z</date>
+  <millis>1713947503306</millis>
+  <nanos>364400</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.306364400Z</date>
+  <millis>1713947503306</millis>
+  <nanos>364400</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.310939800Z</date>
+  <millis>1713947503310</millis>
+  <nanos>939800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.311941100Z</date>
+  <millis>1713947503311</millis>
+  <nanos>941100</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.344296200Z</date>
+  <millis>1713947503344</millis>
+  <nanos>296200</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.345297Z</date>
+  <millis>1713947503345</millis>
+  <nanos>297000</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.347764100Z</date>
+  <millis>1713947503347</millis>
+  <nanos>764100</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.347764100Z</date>
+  <millis>1713947503347</millis>
+  <nanos>764100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.348886500Z</date>
+  <millis>1713947503348</millis>
+  <nanos>886500</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Количество элементов совпадает</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.348886500Z</date>
+  <millis>1713947503348</millis>
+  <nanos>886500</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.352121600Z</date>
+  <millis>1713947503352</millis>
+  <nanos>121600</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.353147800Z</date>
+  <millis>1713947503353</millis>
+  <nanos>147800</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.422998200Z</date>
+  <millis>1713947503422</millis>
+  <nanos>998200</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.424073300Z</date>
+  <millis>1713947503424</millis>
+  <nanos>73300</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML writing</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.498858600Z</date>
+  <millis>1713947503498</millis>
+  <nanos>858600</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.499944700Z</date>
+  <millis>1713947503499</millis>
+  <nanos>944700</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.502974200Z</date>
+  <millis>1713947503502</millis>
+  <nanos>974200</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2024-04-24T08:31:43.502974200Z</date>
+  <millis>1713947503502</millis>
+  <nanos>974200</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:33:02.064534400Z</date>
+  <millis>1713947582064</millis>
+  <nanos>534400</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.646714500Z</date>
+  <millis>1713947582646</millis>
+  <nanos>714500</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.646714500Z</date>
+  <millis>1713947582646</millis>
+  <nanos>714500</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.651748300Z</date>
+  <millis>1713947582651</millis>
+  <nanos>748300</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.654025200Z</date>
+  <millis>1713947582654</millis>
+  <nanos>25200</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.685115Z</date>
+  <millis>1713947582685</millis>
+  <nanos>115000</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.686116800Z</date>
+  <millis>1713947582686</millis>
+  <nanos>116800</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.688119100Z</date>
+  <millis>1713947582688</millis>
+  <nanos>119100</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.688119100Z</date>
+  <millis>1713947582688</millis>
+  <nanos>119100</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.689122300Z</date>
+  <millis>1713947582689</millis>
+  <nanos>122300</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Количество элементов совпадает</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.689122300Z</date>
+  <millis>1713947582689</millis>
+  <nanos>122300</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.693133100Z</date>
+  <millis>1713947582693</millis>
+  <nanos>133100</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.694135500Z</date>
+  <millis>1713947582694</millis>
+  <nanos>135500</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.765143700Z</date>
+  <millis>1713947582765</millis>
+  <nanos>143700</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.766239500Z</date>
+  <millis>1713947582766</millis>
+  <nanos>239500</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML заптсь начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.839898400Z</date>
+  <millis>1713947582839</millis>
+  <nanos>898400</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.840901Z</date>
+  <millis>1713947582840</millis>
+  <nanos>901000</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.844980700Z</date>
+  <millis>1713947582844</millis>
+  <nanos>980700</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON успешно записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:33:02.844980700Z</date>
+  <millis>1713947582844</millis>
+  <nanos>980700</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:34:16.813232100Z</date>
+  <millis>1713947656813</millis>
+  <nanos>232100</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.399803100Z</date>
+  <millis>1713947657399</millis>
+  <nanos>803100</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.399803100Z</date>
+  <millis>1713947657399</millis>
+  <nanos>803100</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.405479800Z</date>
+  <millis>1713947657405</millis>
+  <nanos>479800</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.407493300Z</date>
+  <millis>1713947657407</millis>
+  <nanos>493300</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.438399700Z</date>
+  <millis>1713947657438</millis>
+  <nanos>399700</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.440407100Z</date>
+  <millis>1713947657440</millis>
+  <nanos>407100</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.442410500Z</date>
+  <millis>1713947657442</millis>
+  <nanos>410500</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.442410500Z</date>
+  <millis>1713947657442</millis>
+  <nanos>410500</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.443412300Z</date>
+  <millis>1713947657443</millis>
+  <nanos>412300</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Количество элементов совпадает</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.443412300Z</date>
+  <millis>1713947657443</millis>
+  <nanos>412300</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.446421100Z</date>
+  <millis>1713947657446</millis>
+  <nanos>421100</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.447423700Z</date>
+  <millis>1713947657447</millis>
+  <nanos>423700</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.523351900Z</date>
+  <millis>1713947657523</millis>
+  <nanos>351900</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.524476100Z</date>
+  <millis>1713947657524</millis>
+  <nanos>476100</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML заптсь начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.599797800Z</date>
+  <millis>1713947657599</millis>
+  <nanos>797800</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.600804Z</date>
+  <millis>1713947657600</millis>
+  <nanos>804000</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.602922200Z</date>
+  <millis>1713947657602</millis>
+  <nanos>922200</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON успешно записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:34:17.604262200Z</date>
+  <millis>1713947657604</millis>
+  <nanos>262200</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-24T08:35:42.751097900Z</date>
+  <millis>1713947742751</millis>
+  <nanos>97900</nanos>
+  <sequence>1</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логгер сконфигурирован</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.312540900Z</date>
+  <millis>1713947743312</millis>
+  <nanos>540900</nanos>
+  <sequence>2</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Файл открыт</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.313542700Z</date>
+  <millis>1713947743313</millis>
+  <nanos>542700</nanos>
+  <sequence>3</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>fileRead</method>
+  <thread>1</thread>
+  <message>Листы 1, 2 файла получены.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.317647300Z</date>
+  <millis>1713947743317</millis>
+  <nanos>647300</nanos>
+  <sequence>4</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getStudArr</method>
+  <thread>1</thread>
+  <message>таблица студентов прочитана, количество: 11</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.319871500Z</date>
+  <millis>1713947743319</millis>
+  <nanos>871500</nanos>
+  <sequence>5</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.FileReader</class>
+  <method>getUnivArr</method>
+  <thread>1</thread>
+  <message>таблица университетов прочитана, количество: 7</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.350818700Z</date>
+  <millis>1713947743350</millis>
+  <nanos>818700</nanos>
+  <sequence>6</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.351825200Z</date>
+  <millis>1713947743351</millis>
+  <nanos>825200</nanos>
+  <sequence>7</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>SerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно сериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.353825700Z</date>
+  <millis>1713947743353</millis>
+  <nanos>825700</nanos>
+  <sequence>8</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeStudArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.354829600Z</date>
+  <millis>1713947743354</millis>
+  <nanos>829600</nanos>
+  <sequence>9</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.JsonUtil</class>
+  <method>DeSerializeUniverArr</method>
+  <thread>1</thread>
+  <message>Объект успешно десериализован.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.354829600Z</date>
+  <millis>1713947743354</millis>
+  <nanos>829600</nanos>
+  <sequence>10</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Количество элементов совпадает</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.355846300Z</date>
+  <millis>1713947743355</millis>
+  <nanos>846300</nanos>
+  <sequence>11</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики запущен.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.358839800Z</date>
+  <millis>1713947743358</millis>
+  <nanos>839800</nanos>
+  <sequence>12</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.util.StatUtil</class>
+  <method>GetStatistics</method>
+  <thread>1</thread>
+  <message>Статистика собрана. Обработано объектов: 4</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.358839800Z</date>
+  <millis>1713947743358</millis>
+  <nanos>839800</nanos>
+  <sequence>13</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Запуск записи статистики.</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.428696500Z</date>
+  <millis>1713947743428</millis>
+  <nanos>696500</nanos>
+  <sequence>14</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XlsWriter</class>
+  <method>xlsGenerator</method>
+  <thread>1</thread>
+  <message>Файл статистики записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.429751200Z</date>
+  <millis>1713947743429</millis>
+  <nanos>751200</nanos>
+  <sequence>15</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML заптсь начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.509325800Z</date>
+  <millis>1713947743509</millis>
+  <nanos>325800</nanos>
+  <sequence>16</sequence>
+  <logger>proj.skillfactory.readWrite.XmlWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML запись успешно завершена</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.510327Z</date>
+  <millis>1713947743510</millis>
+  <nanos>327000</nanos>
+  <sequence>17</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись начата</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.513586900Z</date>
+  <millis>1713947743513</millis>
+  <nanos>586900</nanos>
+  <sequence>18</sequence>
+  <logger>proj.skillfactory.readWrite.JsonWriter</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.readWrite.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON успешно записан</message>
+</record>
+<record>
+  <date>2024-04-24T08:35:43.514589500Z</date>
+  <millis>1713947743514</millis>
+  <nanos>589500</nanos>
+  <sequence>19</sequence>
+  <logger>proj.skillfactory.Main</logger>
+  <level>INFO</level>
+  <class>proj.skillfactory.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Программа успешно завершена.</message>
+</record>
+</log>

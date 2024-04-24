@@ -2,11 +2,22 @@ package proj.skillfactory.objects;
 
 import proj.skillfactory.enums.StudyProfile;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlTransient;
+
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Statistics {
+    @XmlElement(name = "universityProfile")
     StudyProfile mainProfile;
+    @XmlElement(name = "avgScore")
     String avgExamScore;
+    @XmlTransient
     int StudNumStudyProfile;
+    @XmlTransient
     int UnivNumStudyProfile;
+    @XmlTransient
     String UniversityNames;
 
 
