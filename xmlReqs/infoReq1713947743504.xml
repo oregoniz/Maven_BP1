@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <studentsInfo>
+        <studentEntry>
+            <studentName>Алексеев С. В.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Васильев В. П.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>4.7</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Витальев В. А.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>4.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Иванов А. Г.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>4.8</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Иванов И. А.</studentName>
+            <universityId>0002-high</universityId>
+            <avgScore>4.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Игнатьев М. М.</studentName>
+            <universityId>0003-high</universityId>
+            <avgScore>4.3</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Козлов М. В.</studentName>
+            <universityId>0002-high</universityId>
+            <avgScore>4.6</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Петров П. А.</studentName>
+            <universityId>0001-high</universityId>
+            <avgScore>5.0</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Сидоров Е. Г.</studentName>
+            <universityId>0004-high</universityId>
+            <avgScore>3.9</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Соколов В. В.</studentName>
+            <universityId>0004-high</universityId>
+            <avgScore>4.8</avgScore>
+        </studentEntry>
+        <studentEntry>
+            <studentName>Фёдоров А. И.</studentName>
+            <universityId>0002-high</universityId>
+            <avgScore>4.2</avgScore>
+        </studentEntry>
+    </studentsInfo>
+    <universitiesInfo>
+        <universityEntry>
+            <id>0005-high</id>
+            <universityId>Самарский Медицинский Институт</universityId>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <id>0003-high</id>
+            <universityId>Московский Государственный Медицинский Университет</universityId>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <id>0002-high</id>
+            <universityId>Московский Придуманный Институт</universityId>
+            <universityProfile>PHYSICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <id>0007-high</id>
+            <universityId>Казанский Университет Вычислений</universityId>
+            <universityProfile>MATHEMATICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <id>0001-high</id>
+            <universityId>Московский Выдуманный Университет</universityId>
+            <universityProfile>PHYSICS</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <id>0004-high</id>
+            <universityId>Тамбовский Университет Медицины</universityId>
+            <universityProfile>MEDICINE</universityProfile>
+        </universityEntry>
+        <universityEntry>
+            <id>0006-high</id>
+            <universityId>Воронежский Литературно-Переводческий Университет</universityId>
+            <universityProfile>LINGUISTICS</universityProfile>
+        </universityEntry>
+    </universitiesInfo>
+    <statisticalInfo>
+        <statisticsEntry>
+            <universityProfile>MEDICINE</universityProfile>
+            <avgScore>4.33</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>LINGUISTICS</universityProfile>
+            <avgScore>0</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>MATHEMATICS</universityProfile>
+            <avgScore>0</avgScore>
+        </statisticsEntry>
+        <statisticsEntry>
+            <universityProfile>PHYSICS</universityProfile>
+            <avgScore>4.54</avgScore>
+        </statisticsEntry>
+    </statisticalInfo>
+    <processedAt>2024-04-24T11:35:43.429+03:00</processedAt>
+</root>

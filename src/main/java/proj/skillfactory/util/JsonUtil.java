@@ -7,13 +7,14 @@ import proj.skillfactory.objects.Student;
 import proj.skillfactory.objects.University;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class JsonUtil {
     private static final Logger logger = Logger.getLogger(Main.class.getName());
-    public JsonUtil() {
-    }
+   // public JsonUtil() {
+   // }
 
     public static String SerializeStud(Student student) {
        // Gson gson = new Gson();
@@ -70,6 +71,9 @@ public class JsonUtil {
         ArrayList<University>univerArr = gson.fromJson(gsonString, ArrayList.class);
         logger.log(Level.INFO,"Объект успешно десериализован.");
         return univerArr;
+    }
+    public static String writeListToJson(List<?> list) {
+        return new GsonBuilder().setPrettyPrinting().create().toJson(list);
     }
 }
 
